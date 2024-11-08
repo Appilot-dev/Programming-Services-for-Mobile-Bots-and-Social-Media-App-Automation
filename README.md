@@ -4,7 +4,23 @@
 
 We specialize in creating custom automation solutions for popular social media platforms using real mobile devices (Android, iOS) and emulators. Our advanced programming services help you automate preferred actions on platforms like Instagram, Reddit, TikTok, LinkedIn, and more. Whether you need to manage multiple accounts or engage with audiences strategically, our solutions make it possible to grow your online presence efficiently and securely.
 
-## About Our Service
+## Table of Contents
+
+- [About Our Service](#about-our-service)
+- [Appilot Platform](#appilot-platform)
+- [Why Choose Real Device Automation](#why-choose-real-device-automation)
+- [Key Features](#key-features)
+- [Services Offered](#services-offered)
+- [Pricing and Rates](#pricing-and-rates)
+- [Project Timelines](#project-timelines)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [FAQs](#faqs)
+- [Contact Us](#contact-us)
+
+
+
+## About Our Service 
 Growing a social media following requires more than just consistent posting. With sophisticated algorithms detecting bot activity, it’s essential to have a reliable automation strategy that mimics human interaction. At Appilot, we offer professional programming services for **real device automation** to ensure genuine, high-quality interactions that enhance user engagement and visibility. Our bots and mobile farm setups operate seamlessly across Android and iOS devices, enabling secure and effective automation that works in harmony with social media algorithms.
 
 ## Appilot Platform
@@ -18,7 +34,7 @@ Social media algorithms often flag and ban browser-based or API-driven bots due 
 - **Non-ADB Solution:** By using our proprietary Appilot platform, you can control devices wirelessly, minimizing connection issues, reducing battery wear, and enhancing usability.
 
 
-**Key Features**
+## Key Features
 
 | Feature                        | Description                                                                                             |
 |--------------------------------|---------------------------------------------------------------------------------------------------------|
