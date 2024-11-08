@@ -4,19 +4,19 @@
 
 We specialize in creating custom automation solutions for popular social media platforms using real mobile devices (Android, iOS) and emulators. Our advanced programming services help you automate preferred actions on platforms like Instagram, Reddit, TikTok, LinkedIn, and more. Whether you need to manage multiple accounts or engage with audiences strategically, our solutions make it possible to grow your online presence efficiently and securely.
 
-## Table of Contents
-
-- [About Our Service](#about-our-service)
-- [Appilot Platform](#appilot-platform)
-- [Why Choose Real Device Automation](#why-choose-real-device-automation)
-- [Key Features](#key-features)
-- [Services Offered](#services-offered)
-- [Pricing and Rates](#pricing-and-rates)
-- [Project Timelines](#project-timelines)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [FAQs](#faqs)
-- [Contact Us](#contact-us)
+|  Table of Contents                                 |
+|----------------------------------------------------|
+| [About Our Service](#about-our-service)            |
+| [Appilot Platform](#appilot-platform)              |
+| [Why Choose Real Device Automation](#why-choose-real-device-automation) |
+| [Key Features](#key-features)                      |
+| [Services Offered](#services-offered)              |
+| [Pricing and Rates](#pricing-and-rates)            |
+| [Project Timelines](#project-timelines)            |
+| [Technologies Used](#technologies-used)            |
+| [Getting Started](#getting-started)                |
+| [FAQs](#faqs)                                      |
+| [Contact Us](#contact-us)                          |
 
 
 
